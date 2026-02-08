@@ -7,7 +7,7 @@ This API provides intelligent final-year project recommendations using NLP and e
 ## Base URL
 
 ```
-http://<your-domain-or-ip>/api/v1
+http://<your-domain-or-ip>/
 ```
 
 All endpoints accept **JSON** input and output.
