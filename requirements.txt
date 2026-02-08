@@ -1,7 +1,10 @@
 fastapi
-uvicorn
+uvicorn[standard]
 pandas
 numpy
 scikit-learn
-torch==2.10.0
 sentence-transformers
+torch
+requests
+python-dotenv
+tqdm
