@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+pandas
+numpy
+scikit-learn
+torch==2.10.0
+sentence-transformers

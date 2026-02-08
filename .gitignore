@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyc
+*.pkl
+*.db
+*.sqlite3
+
+# Virtual environment
+venv/
+.env
+.env.*
+
+# Logs
+*.log
+
+# Jupyter Notebook checkpoints (agar notebook use kiya ho)
+.ipynb_checkpoints/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# VSCode
+.vscode/
+
+# Docker (optional)
+*.dockerignore
